@@ -1,2 +1,2 @@
 # Analisis-de-Peliculas-Python
-Progama en codigo .py para analisar datos de peliculas y mostrar informacion destacada.
+Progama en codigo .py para analizar datos de peliculas y mostrar informacion destacada.
